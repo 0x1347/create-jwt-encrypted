@@ -1,0 +1,11 @@
+cffi==1.15.1
+cryptography==38.0.4
+Deprecated==1.2.13
+ecdsa==0.18.0
+jwcrypto==1.4.2
+pyasn1==0.4.8
+pycparser==2.21
+python-jose==3.3.0
+rsa==4.9
+six==1.16.0
+wrapt==1.14.1
