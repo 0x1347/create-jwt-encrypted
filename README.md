@@ -7,8 +7,8 @@ simple creation of Encrypted JSON web token by python
 1. Create both private and the public keys to use it for signing the token and encrypting it
 
 ```
-    openssl genrsa -out privatekey.pem 4096
-    openssl rsa -in privatekey.pem -out publickey.pem -pubout -outform PEM
+openssl genrsa -out privatekey.pem 4096
+openssl rsa -in privatekey.pem -out publickey.pem -pubout -outform PEM
 ```
 
 2. Create virtual environment
